@@ -1,0 +1,8 @@
+prefix=/home/abhimanyu/bluerov_ws/devel
+exec_prefix=/home/abhimanyu/bluerov_ws/devel
+includedir=${prefix}/include
+
+Name: mavlink
+Description: MAVLink micro air vehicle marshalling / communication library
+Version: 2022.1.5
+Cflags: -I${includedir}

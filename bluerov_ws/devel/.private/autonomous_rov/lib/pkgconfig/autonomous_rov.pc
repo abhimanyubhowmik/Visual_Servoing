@@ -1,0 +1,8 @@
+prefix=/home/abhimanyu/bluerov_ws/devel/.private/autonomous_rov
+
+Name: autonomous_rov
+Description: Description of autonomous_rov
+Version: 0.0.0
+Cflags: -I/home/abhimanyu/bluerov_ws/devel/.private/autonomous_rov/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

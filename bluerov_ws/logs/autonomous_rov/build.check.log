@@ -1,0 +1,1 @@
+/usr/bin/cmake -S/home/abhimanyu/bluerov_ws/src/autonomous_rov -B/home/abhimanyu/bluerov_ws/build/autonomous_rov --check-build-system CMakeFiles/Makefile.cmake 0

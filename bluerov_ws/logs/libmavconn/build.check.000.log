@@ -1,0 +1,1 @@
+/usr/bin/cmake -S/home/abhimanyu/bluerov_ws/src/mavros/libmavconn -B/home/abhimanyu/bluerov_ws/build/libmavconn --check-build-system CMakeFiles/Makefile.cmake 0

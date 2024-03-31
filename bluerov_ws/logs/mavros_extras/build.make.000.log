@@ -1,0 +1,201 @@
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target servo_state_publisher[0m
+[  0%] Built target visualization_msgs_generate_messages_py
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_lisp[0m
+[  2%] [32mBuilding CXX object CMakeFiles/servo_state_publisher.dir/src/servo_state_publisher.cpp.o[0m
+[  2%] Built target visualization_msgs_generate_messages_nodejs
+[  2%] Built target visualization_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target tf_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target tf_generate_messages_cpp[0m
+[  2%] Built target tf_generate_messages_nodejs
+[  2%] Built target tf_generate_messages_cpp
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_lisp[0m
+[  2%] Built target trajectory_msgs_generate_messages_nodejs
+[  2%] Built target trajectory_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_cpp[0m
+[  2%] Built target tf2_msgs_generate_messages_nodejs
+[  2%] Built target trajectory_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_cpp[0m
+[  2%] Built target tf2_msgs_generate_messages_lisp
+[  2%] Built target tf2_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_cpp[0m
+[  2%] Built target actionlib_generate_messages_nodejs
+[  2%] Built target actionlib_generate_messages_cpp
+[35m[1mScanning dependencies of target tf_generate_messages_eus[0m
+[  2%] Built target tf_generate_messages_eus
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[  2%] Built target rosgraph_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[  2%] Built target actionlib_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_eus[0m
+[  2%] Built target visualization_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_cpp[0m
+[  2%] Built target nav_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_eus[0m
+[  2%] Built target trajectory_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[  2%] Built target roscpp_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  2%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[  2%] Built target geometry_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_generate_messages_py[0m
+[  2%] Built target actionlib_generate_messages_py
+[35m[1mScanning dependencies of target diagnostic_msgs_generate_messages_lisp[0m
+[  2%] Built target diagnostic_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_eus[0m
+[  2%] Built target nav_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  2%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target diagnostic_msgs_generate_messages_eus[0m
+[  2%] Built target diagnostic_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[  2%] Built target std_msgs_generate_messages_py
+[  2%] Built target roscpp_generate_messages_cpp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[  2%] Built target geometry_msgs_generate_messages_py
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_eus[0m
+[  2%] Built target tf2_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[  2%] Built target sensor_msgs_generate_messages_py
+[35m[1mScanning dependencies of target tf_generate_messages_lisp[0m
+[  2%] Built target tf_generate_messages_lisp
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_py[0m
+[  2%] Built target nav_msgs_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_generate_messages_lisp[0m
+[  2%] Built target actionlib_generate_messages_lisp
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[  2%] Built target roscpp_generate_messages_lisp
+[35m[1mScanning dependencies of target mavros_msgs_generate_messages_eus[0m
+[  2%] Built target mavros_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target diagnostic_msgs_generate_messages_cpp[0m
+[  2%] Built target diagnostic_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[  2%] Built target rosgraph_msgs_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[  2%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[  2%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_py[0m
+[  2%] Built target trajectory_msgs_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_generate_messages_eus[0m
+[  2%] Built target actionlib_generate_messages_eus
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[  2%] Built target rosgraph_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target diagnostic_msgs_generate_messages_nodejs[0m
+[  2%] Built target diagnostic_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target uuid_msgs_generate_messages_lisp[0m
+[  2%] Built target uuid_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[  2%] Built target roscpp_generate_messages_nodejs
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[  2%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target mavros_msgs_generate_messages_py[0m
+[  2%] Built target mavros_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  2%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[  2%] Built target roscpp_generate_messages_eus
+[35m[1mScanning dependencies of target uuid_msgs_generate_messages_eus[0m
+[  2%] Built target uuid_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target uuid_msgs_generate_messages_cpp[0m
+[  2%] Built target uuid_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[  2%] Built target rosgraph_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target geographic_msgs_generate_messages_cpp[0m
+[  2%] Built target geographic_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target geographic_msgs_generate_messages_eus[0m
+[  2%] Built target geographic_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[  2%] Built target rosgraph_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target geographic_msgs_generate_messages_lisp[0m
+[  2%] Built target geographic_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_nodejs[0m
+[  2%] Built target nav_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target diagnostic_msgs_generate_messages_py[0m
+[  2%] Built target diagnostic_msgs_generate_messages_py
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[  2%] Built target sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target geographic_msgs_generate_messages_nodejs[0m
+[  2%] Built target geographic_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target geographic_msgs_generate_messages_py[0m
+[  2%] Built target geographic_msgs_generate_messages_py
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_cpp[0m
+[  2%] Built target visualization_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[  2%] Built target sensor_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[  2%] Built target sensor_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target uuid_msgs_generate_messages_nodejs[0m
+[  2%] Built target uuid_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target uuid_msgs_generate_messages_py[0m
+[  2%] Built target uuid_msgs_generate_messages_py
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_py[0m
+[  2%] Built target tf2_msgs_generate_messages_py
+[35m[1mScanning dependencies of target mavros_msgs_generate_messages_cpp[0m
+[  2%] Built target mavros_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[  2%] Built target actionlib_msgs_generate_messages_py
+[35m[1mScanning dependencies of target mavros_msgs_generate_messages_lisp[0m
+[  2%] Built target mavros_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target mavros_msgs_generate_messages_nodejs[0m
+[  2%] Built target mavros_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[  2%] Built target sensor_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_lisp[0m
+[  2%] Built target nav_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[  2%] Built target actionlib_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target tf_generate_messages_py[0m
+[  2%] Built target tf_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[  2%] Built target actionlib_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  2%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target visualization[0m
+[  5%] [32mBuilding CXX object CMakeFiles/visualization.dir/src/visualization.cpp.o[0m
+[  8%] [32m[1mLinking CXX executable /home/abhimanyu/bluerov_ws/devel/.private/mavros_extras/lib/mavros_extras/servo_state_publisher[0m
+[  8%] Built target servo_state_publisher
+[35m[1mScanning dependencies of target mavros_extras[0m
+[ 11%] [32mBuilding CXX object CMakeFiles/mavros_extras.dir/src/plugins/adsb.cpp.o[0m
+[ 14%] [32mBuilding CXX object CMakeFiles/mavros_extras.dir/src/plugins/cam_imu_sync.cpp.o[0m
+[ 17%] [32m[1mLinking CXX executable /home/abhimanyu/bluerov_ws/devel/.private/mavros_extras/lib/mavros_extras/visualization[0m
+[ 20%] [32mBuilding CXX object CMakeFiles/mavros_extras.dir/src/plugins/camera.cpp.o[0m
+[ 20%] Built target visualization
+[ 22%] [32mBuilding CXX object CMakeFiles/mavros_extras.dir/src/plugins/companion_process_status.cpp.o[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/mavros_extras.dir/src/plugins/onboard_computer_status.cpp.o[0m
+[ 28%] [32mBuilding CXX object CMakeFiles/mavros_extras.dir/src/plugins/debug_value.cpp.o[0m
+[ 31%] [32mBuilding CXX object CMakeFiles/mavros_extras.dir/src/plugins/distance_sensor.cpp.o[0m
+[ 34%] [32mBuilding CXX object CMakeFiles/mavros_extras.dir/src/plugins/esc_status.cpp.o[0m
+[ 37%] [32mBuilding CXX object CMakeFiles/mavros_extras.dir/src/plugins/esc_telemetry.cpp.o[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/mavros_extras.dir/src/plugins/fake_gps.cpp.o[0m
+[ 42%] [32mBuilding CXX object CMakeFiles/mavros_extras.dir/src/plugins/gps_input.cpp.o[0m
+[ 45%] [32mBuilding CXX object CMakeFiles/mavros_extras.dir/src/plugins/gps_rtk.cpp.o[0m
+[ 48%] [32mBuilding CXX object CMakeFiles/mavros_extras.dir/src/plugins/gps_status.cpp.o[0m
+[ 51%] [32mBuilding CXX object CMakeFiles/mavros_extras.dir/src/plugins/landing_target.cpp.o[0m
+[ 54%] [32mBuilding CXX object CMakeFiles/mavros_extras.dir/src/plugins/log_transfer.cpp.o[0m
+[ 57%] [32mBuilding CXX object CMakeFiles/mavros_extras.dir/src/plugins/mag_calibration_status.cpp.o[0m
+[ 60%] [32mBuilding CXX object CMakeFiles/mavros_extras.dir/src/plugins/mocap_pose_estimate.cpp.o[0m
+[ 62%] [32mBuilding CXX object CMakeFiles/mavros_extras.dir/src/plugins/mount_control.cpp.o[0m
+[ 65%] [32mBuilding CXX object CMakeFiles/mavros_extras.dir/src/plugins/obstacle_distance.cpp.o[0m
+[ 68%] [32mBuilding CXX object CMakeFiles/mavros_extras.dir/src/plugins/odom.cpp.o[0m
+[ 71%] [32mBuilding CXX object CMakeFiles/mavros_extras.dir/src/plugins/play_tune.cpp.o[0m
+[ 74%] [32mBuilding CXX object CMakeFiles/mavros_extras.dir/src/plugins/px4flow.cpp.o[0m
+[ 77%] [32mBuilding CXX object CMakeFiles/mavros_extras.dir/src/plugins/rangefinder.cpp.o[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/mavros_extras.dir/src/plugins/terrain.cpp.o[0m
+[ 82%] [32mBuilding CXX object CMakeFiles/mavros_extras.dir/src/plugins/trajectory.cpp.o[0m
+[ 85%] [32mBuilding CXX object CMakeFiles/mavros_extras.dir/src/plugins/tunnel.cpp.o[0m
+[ 88%] [32mBuilding CXX object CMakeFiles/mavros_extras.dir/src/plugins/vibration.cpp.o[0m
+[ 91%] [32mBuilding CXX object CMakeFiles/mavros_extras.dir/src/plugins/vision_pose_estimate.cpp.o[0m
+[ 94%] [32mBuilding CXX object CMakeFiles/mavros_extras.dir/src/plugins/vision_speed_estimate.cpp.o[0m
+[ 97%] [32mBuilding CXX object CMakeFiles/mavros_extras.dir/src/plugins/wheel_odometry.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/abhimanyu/bluerov_ws/devel/.private/mavros_extras/lib/libmavros_extras.so[0m
+[100%] Built target mavros_extras

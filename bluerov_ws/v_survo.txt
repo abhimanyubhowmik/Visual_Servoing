@@ -1,0 +1,21 @@
+
+# Camera Adjustments
+rosrun rqt_reconfigure rqt_reconfigure
+
+# Running Image View
+rosrun rqt_image_view rqt_image_view
+
+# PlotJuggler
+rosrun plotjuggler plotjuggler
+
+# Image processing
+
+source devel/setup.bash
+
+roslaunch autonomous_rov run_image_processing.launch
+
+# Visual servoing 
+
+source devel/setup.bash
+
+roslaunch autonomous_rov run_visual_servoing.launch

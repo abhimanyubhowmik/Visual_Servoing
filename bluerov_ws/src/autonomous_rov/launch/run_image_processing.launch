@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<launch>
+
+  <!-- roscore automatically started by roslaunch -->
+ 
+
+   <arg name="ns" default="br2"/>
+   <group ns="$(arg ns)">  
+
+     <arg 
+        name="image_topic"
+        default="raspicam_node/image/compressed"
+        />
+    
+      <node 
+        pkg="autonomous_rov" 
+        type="image_processing_mir.py" 
+        name="image_processing_mir" 
+        output="screen" >
+        <param 
+            name="cam_name" 
+            value="$(arg image_topic)"/>
+
+    </node>
+  </group>
+
+</launch>
+   
+   
+
+
+   
+   
+
+
+
+

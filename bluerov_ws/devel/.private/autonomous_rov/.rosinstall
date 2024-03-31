@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/abhimanyu/bluerov_ws/devel/.private/autonomous_rov/setup.sh

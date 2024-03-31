@@ -1,0 +1,21 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~x_axis" : \b [int]  min: 0, default: 1, max: 7
+- \b "~y_axis" : \b [int]  min: 0, default: 0, max: 7
+- \b "~z_axis" : \b [int]  min: 0, default: 4, max: 7
+- \b "~wx_axis" : \b [int]  min: 0, default: 7, max: 7
+- \b "~wy_axis" : \b [int]  min: 0, default: 6, max: 7
+- \b "~wz_axis" : \b [int]  min: 0, default: 3, max: 7
+- \b "~enable_button" : \b [int]  min: 0, default: 0, max: 14
+- \b "~disable_button" : \b [int]  min: 0, default: 1, max: 14
+- \b "~pub_rate" : \b [double] the maximum publish rate min: 0.1, default: 100.0, max: 200.0
+- \b "~expo" : \b [double] improves control at low levels min: 0.0, default: 0.5, max: 1.0
+- \b "~x_scaling" : \b [double] linear scaling in m/s min: -10.0, default: 0.2, max: 10.0
+- \b "~y_scaling" : \b [double] linear scaling in m/s min: -10.0, default: 0.2, max: 10.0
+- \b "~z_scaling" : \b [double] linear scaling in m/s min: -10.0, default: 0.2, max: 10.0
+- \b "~wx_scaling" : \b [double] angular scaling in rad/s min: -31.4, default: 0.2, max: 31.4
+- \b "~wy_scaling" : \b [double] angular scaling in rad/s min: -31.4, default: 0.2, max: 31.4
+- \b "~wz_scaling" : \b [double] angular scaling in rad/s min: -31.4, default: 0.2, max: 31.4
+

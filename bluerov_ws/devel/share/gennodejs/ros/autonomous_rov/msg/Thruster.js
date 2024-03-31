@@ -1,0 +1,1 @@
+/home/abhimanyu/bluerov_ws/devel/.private/autonomous_rov/share/gennodejs/ros/autonomous_rov/msg/Thruster.js

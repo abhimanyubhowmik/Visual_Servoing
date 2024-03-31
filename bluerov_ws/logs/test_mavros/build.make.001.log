@@ -1,0 +1,24 @@
+/usr/bin/cmake -S/home/abhimanyu/bluerov_ws/src/mavros/test_mavros -B/home/abhimanyu/bluerov_ws/build/test_mavros --check-build-system CMakeFiles/Makefile.cmake 0
+/usr/bin/cmake -E cmake_progress_start /home/abhimanyu/bluerov_ws/build/test_mavros/CMakeFiles /home/abhimanyu/bluerov_ws/build/test_mavros/CMakeFiles/progress.marks
+/usr/bin/make -f CMakeFiles/Makefile2 all
+make[1]: Entering directory '/home/abhimanyu/bluerov_ws/build/test_mavros'
+/usr/bin/make -f CMakeFiles/mavros_sitl_test.dir/build.make CMakeFiles/mavros_sitl_test.dir/depend
+make[2]: Entering directory '/home/abhimanyu/bluerov_ws/build/test_mavros'
+cd /home/abhimanyu/bluerov_ws/build/test_mavros && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/abhimanyu/bluerov_ws/src/mavros/test_mavros /home/abhimanyu/bluerov_ws/src/mavros/test_mavros /home/abhimanyu/bluerov_ws/build/test_mavros /home/abhimanyu/bluerov_ws/build/test_mavros /home/abhimanyu/bluerov_ws/build/test_mavros/CMakeFiles/mavros_sitl_test.dir/DependInfo.cmake --color=
+make[2]: Leaving directory '/home/abhimanyu/bluerov_ws/build/test_mavros'
+/usr/bin/make -f CMakeFiles/mavros_sitl_test.dir/build.make CMakeFiles/mavros_sitl_test.dir/build
+make[2]: Entering directory '/home/abhimanyu/bluerov_ws/build/test_mavros'
+make[2]: Nothing to be done for 'CMakeFiles/mavros_sitl_test.dir/build'.
+make[2]: Leaving directory '/home/abhimanyu/bluerov_ws/build/test_mavros'
+[ 60%] Built target mavros_sitl_test
+/usr/bin/make -f CMakeFiles/sitl_test_node.dir/build.make CMakeFiles/sitl_test_node.dir/depend
+make[2]: Entering directory '/home/abhimanyu/bluerov_ws/build/test_mavros'
+cd /home/abhimanyu/bluerov_ws/build/test_mavros && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/abhimanyu/bluerov_ws/src/mavros/test_mavros /home/abhimanyu/bluerov_ws/src/mavros/test_mavros /home/abhimanyu/bluerov_ws/build/test_mavros /home/abhimanyu/bluerov_ws/build/test_mavros /home/abhimanyu/bluerov_ws/build/test_mavros/CMakeFiles/sitl_test_node.dir/DependInfo.cmake --color=
+make[2]: Leaving directory '/home/abhimanyu/bluerov_ws/build/test_mavros'
+/usr/bin/make -f CMakeFiles/sitl_test_node.dir/build.make CMakeFiles/sitl_test_node.dir/build
+make[2]: Entering directory '/home/abhimanyu/bluerov_ws/build/test_mavros'
+make[2]: Nothing to be done for 'CMakeFiles/sitl_test_node.dir/build'.
+make[2]: Leaving directory '/home/abhimanyu/bluerov_ws/build/test_mavros'
+[100%] Built target sitl_test_node
+make[1]: Leaving directory '/home/abhimanyu/bluerov_ws/build/test_mavros'
+/usr/bin/cmake -E cmake_progress_start /home/abhimanyu/bluerov_ws/build/test_mavros/CMakeFiles 0

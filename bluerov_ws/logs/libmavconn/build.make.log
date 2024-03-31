@@ -1,0 +1,15 @@
+/usr/bin/cmake -S/home/abhimanyu/bluerov_ws/src/mavros/libmavconn -B/home/abhimanyu/bluerov_ws/build/libmavconn --check-build-system CMakeFiles/Makefile.cmake 0
+/usr/bin/cmake -E cmake_progress_start /home/abhimanyu/bluerov_ws/build/libmavconn/CMakeFiles /home/abhimanyu/bluerov_ws/build/libmavconn/CMakeFiles/progress.marks
+/usr/bin/make -f CMakeFiles/Makefile2 all
+make[1]: Entering directory '/home/abhimanyu/bluerov_ws/build/libmavconn'
+/usr/bin/make -f CMakeFiles/mavconn.dir/build.make CMakeFiles/mavconn.dir/depend
+make[2]: Entering directory '/home/abhimanyu/bluerov_ws/build/libmavconn'
+cd /home/abhimanyu/bluerov_ws/build/libmavconn && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/abhimanyu/bluerov_ws/src/mavros/libmavconn /home/abhimanyu/bluerov_ws/src/mavros/libmavconn /home/abhimanyu/bluerov_ws/build/libmavconn /home/abhimanyu/bluerov_ws/build/libmavconn /home/abhimanyu/bluerov_ws/build/libmavconn/CMakeFiles/mavconn.dir/DependInfo.cmake --color=
+make[2]: Leaving directory '/home/abhimanyu/bluerov_ws/build/libmavconn'
+/usr/bin/make -f CMakeFiles/mavconn.dir/build.make CMakeFiles/mavconn.dir/build
+make[2]: Entering directory '/home/abhimanyu/bluerov_ws/build/libmavconn'
+make[2]: Nothing to be done for 'CMakeFiles/mavconn.dir/build'.
+make[2]: Leaving directory '/home/abhimanyu/bluerov_ws/build/libmavconn'
+[100%] Built target mavconn
+make[1]: Leaving directory '/home/abhimanyu/bluerov_ws/build/libmavconn'
+/usr/bin/cmake -E cmake_progress_start /home/abhimanyu/bluerov_ws/build/libmavconn/CMakeFiles 0

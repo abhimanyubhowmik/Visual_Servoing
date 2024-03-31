@@ -1,0 +1,22 @@
+\subsubsection usage Usage
+\verbatim
+<node name="teleop_xbox" pkg="bluerov" type="teleop_xbox">
+  <param name="x_axis" type="int" value="1" />
+  <param name="y_axis" type="int" value="0" />
+  <param name="z_axis" type="int" value="4" />
+  <param name="wx_axis" type="int" value="7" />
+  <param name="wy_axis" type="int" value="6" />
+  <param name="wz_axis" type="int" value="3" />
+  <param name="enable_button" type="int" value="0" />
+  <param name="disable_button" type="int" value="1" />
+  <param name="pub_rate" type="double" value="100.0" />
+  <param name="expo" type="double" value="0.5" />
+  <param name="x_scaling" type="double" value="0.2" />
+  <param name="y_scaling" type="double" value="0.2" />
+  <param name="z_scaling" type="double" value="0.2" />
+  <param name="wx_scaling" type="double" value="0.2" />
+  <param name="wy_scaling" type="double" value="0.2" />
+  <param name="wz_scaling" type="double" value="0.2" />
+</node>
+\endverbatim
+
