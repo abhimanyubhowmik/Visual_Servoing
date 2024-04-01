@@ -17,25 +17,27 @@ Group Members:
 
 ### How to Use:
 
-Prequisite 
+* Prequisites:
 
-Linux 20.04 or 18.04 LTS
+    Linux 20.04 or 18.04 LTS
 
-ROS: Melodic for ubuntu 18.04, Neotic for 20.04
+    ROS: Melodic for ubuntu 18.04, Neotic for 20.04
 
-Installation of mavros locally. It also possible to install mavros packages from the network but some code may not be compatible any more with the embbedded version.
+    Installation of mavros locally. 
 
-```python-rosinstall-generator python-catkin-tools
-sudo apt-get install ros-melodic-joy
-```
+    It also possible to install mavros packages from the network but some code may not be compatible any more with the embbedded version.
 
-Cloning the Project Repository : 
+
+* Cloning the Project Repository : 
 ```git@github.com:abhimanyubhowmik/Visual_Servoing.git```
 
 ```
+sudo apt-get install ros-melodic-joy
+
 cd bluerov_ws
 catkin build
 catkin build -j1 -v
+
 # Image processing
 
 source devel/setup.bash
