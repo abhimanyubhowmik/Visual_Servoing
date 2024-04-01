@@ -76,6 +76,7 @@ L_e^* = \begin{bmatrix}
 0 & -1 & cY & 1+cY^2 & -cXcY & -cX   
 \end{bmatrix}
 $$
+
 Here, $L_e^*$ is the interaction matrix for the actual point where ($cX, cY$) is the centroid coordinates of the buoy and $Z = 1$. 
 
 $$
@@ -111,13 +112,16 @@ Where:
 ### Frame Transformation
 
 The computed velocities have to be converted to the body frame from the camera frame with the first frame as the camera frame, in order to get a meaningful and accurate control action. To achieve this, we apply a transformation matrix.
+
 $$
 \text{Transformation\_matrix} = \begin{pmatrix}
 R & \text{skew\_pos} \cdot R \\
 \mathbf{0}_{3 \times 3} & R
 \end{pmatrix}
 $$
+
 where $ R $ is the Rotation matrix and $(skew\_pos)$ is the skew matrix of the position vector (position of the camera in the robot frame).
+
 $$
 R = \begin{pmatrix}
 0 & 0 & 1.0 \\
@@ -170,7 +174,7 @@ Graph (B) is the L2-norm of the error. Here, we observe that after initial oscil
 <p>Figure 6: 5 DOF Control</p>
 </div>
 
-Figure 6 demonstrates the graphs for the 5-degree controller with a lambda($\lambda$) value of 1.5. Here we control all the degrees of freedom, except the pitch. We don't use pitch for the controller as the ROV can turn upside down to match the desired point, which is not what we intend to do. Graph (A) provides us with the trajectory of the desired point in the XY plane. We observed a constant offset in the heave here. This may be happening because the P-controller is not sufficient to take care of all 5 degrees of freedom. The L2-norm of errors in Graph (B) also confirms the error of $ \leq 0.1 m $. The jitters observed were mainly due to the struggling P-controller. We were also trying to move the buoy to different positions to check the ROV robustness, thus resulting in steep "hills". Graph (C) and (D) portrays the camera and ROV velocity in all directions except the pitch. 
+Figure 6 demonstrates the graphs for the 5-degree controller with a lambda($\lambda$) value of 1.5. Here we control all the degrees of freedom, except the pitch. We don't use pitch for the controller as the ROV can turn upside down to match the desired point, which is not what we intend to do. Graph (A) provides us with the trajectory of the desired point in the XY plane. We observed a constant offset in the heave here. This may be happening because the P-controller is not sufficient to take care of all 5 degrees of freedom. The L2-norm of errors in Graph (B) also confirms the error of $\leq0.1m$ . The jitters observed were mainly due to the struggling P-controller. We were also trying to move the buoy to different positions to check the ROV robustness, thus resulting in steep "hills". Graph (C) and (D) portrays the camera and ROV velocity in all directions except the pitch. 
 
 
 
