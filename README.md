@@ -108,7 +108,7 @@ Where:
 - $\lambda$ is the proportional gain, which determines the sensitivity of the controller's response to changes in the error.
 
 <div align="center">
-<img src = "Assets/blueROV.png" width="100%">
+<img src = "Assets/blueROV.png" width="60%">
 <p>Figure 2: Degrees of Freedom of a BlueROV</p>
 </div>
 
