@@ -105,8 +105,8 @@ We subtract $200$ from $Y_d$ to project the desired point at the upper side of t
 $u(t) = \lambda \cdot e(t) $
 
 Where:
-- $ u(t) $ is the control signal at time $t$,
-- $ e(t) $ is the error between the desired setpoint and the current state at time $t$, and
+- $u(t)$ is the control signal at time $t$,
+- $e(t)$ is the error between the desired setpoint and the current state at time $t$, and
 - $\lambda$ is the proportional gain, which determines the sensitivity of the controller's response to changes in the error.
 
 <div align="center">
