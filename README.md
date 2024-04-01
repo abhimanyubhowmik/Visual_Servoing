@@ -131,7 +131,7 @@ R = \begin{pmatrix}
 $$
 
 $$
-\text{{skew\_pos}} = \begin{pmatrix}
+\text{{skew pos}} = \begin{pmatrix}
 0 & 0 & 0 \\
 0 & 0 & -0.159 \\
 0 & 0.159 & 0
