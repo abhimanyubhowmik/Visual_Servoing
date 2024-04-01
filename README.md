@@ -1,4 +1,8 @@
-# Image-Based Visual Servoing Control (IBVS)
+<h1 align="center">Image-Based Visual Servoing Control (IBVS)</h1>
+
+<div align="center">
+<img src = "Assets/visual_servoing.gif" width="100%">
+</div>
  
 ### Objective:
 The objective is to implement visual servoying using OpenCV by detecting an orange buoy within an underwater environment. Subsequently, we aim to implement a Proportional (P) controller using an interaction matrix to regulate various degrees of freedom of a BlueROV. Initially, the controller focuses on regulating yaw-heave, and then sway-heave. Ultimately, the controller aims to oversee all five degrees of motion, except for pitch.
