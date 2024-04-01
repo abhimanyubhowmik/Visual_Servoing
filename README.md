@@ -120,7 +120,7 @@ R & \text{skew pos} \cdot R \\
 \end{pmatrix}
 $$
 
-where $ R $ is the Rotation matrix and $(skew pos)$ is the skew matrix of the position vector (position of the camera in the robot frame).
+where $R$ is the Rotation matrix and $(skew pos)$ is the skew matrix of the position vector (position of the camera in the robot frame).
 
 $$
 R = \begin{pmatrix}
