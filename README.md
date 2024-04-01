@@ -92,7 +92,7 @@ L_e = \begin{bmatrix}
 \end{bmatrix}
 $$
 
-Here, $L_e$ is the interaction matrix for the desired point where, $X_d = img width/2$, $Y_d = img height/2 -200$\\ and $Z = 1$. 
+Here, $L_e$ is the interaction matrix for the desired point where, $X_d = img width/2$, $Y_d = img height/2 -200$ and $Z = 1$. 
 
 We subtract $200$ from $Y_d$ to project the desired point at the upper side of the image frame rather than at the centre as in most cases, the buoy is near to the surface of the water and with a desired point at the centre, the BlueROV tries to "jump out" of the water.
 
